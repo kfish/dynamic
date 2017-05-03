@@ -1,4 +1,4 @@
-var _kfish$dreambuggy$Native_Dynamic = function()
+var _kfish$dynamic$Native_Dynamic = function()
 {
 
 function pack(x) {
