@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "summary": "Dynamic types for Elm",
     "repository": "https://github.com/kfish/dynamic.git",
     "license": "BSD3",
